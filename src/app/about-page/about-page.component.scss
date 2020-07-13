@@ -1,0 +1,26 @@
+.container {
+  margin-top: 50px;
+}
+
+.carousel {
+  margin: 100px 0px 40px;
+}
+
+.carousel-item img {
+  max-width: 100%;
+  max-height: 100vh;
+  margin: auto;
+}
+
+.card-icon-top {
+    display: block;
+    margin: 50px auto;
+    font-size: 73px;
+    width: 2em;
+    display: inline-block;
+    border-radius: 72px;
+    text-align: center;
+    border: 5px solid;
+    box-shadow: 0px 0px 2px #888;
+    padding: 0.4em 0.3em;
+}
